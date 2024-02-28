@@ -10,4 +10,6 @@ The **Classic Soccer Star Extended** is a web extension designed to enhance and 
 
 3. **Scoreboard and Player Invitations**: Users can search for players, invite them to soccer clubs, and manage their interactions. The system uses MySQL for database management.
 
-Feel free to explore and contribute to the Classic Soccer Star Extended project! ⚽🌟
+Explore the extended SoccerStar experience: [Classic Soccer Star Extended](http://classicsoccerstar-extended.ct8.pl/index.php?page=)http://classicsoccerstar-extended.ct8.pl/index.php?page=
+
+Game link: [Classic Soccer Star](https://classicsoccerstar.ct8.pl/ )https://classicsoccerstar.ct8.pl/ 
