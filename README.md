@@ -28,4 +28,7 @@ Ready to lace up your virtual cleats? Here's how:
    - Take a trip down memory lane.
    - Appreciate the simplicity and quirks that made it a classic.
 
+Explore the extended SoccerStar experience: http://classicsoccerstar-extended.ct8.pl/index.php?page=
+Game link: https://classicsoccerstar.ct8.pl/ 
+
 Whether you're a seasoned player or a curious newcomer, Classic Soccer Star Extended invites you to relive the past while embracing the future. ⚽🌟
