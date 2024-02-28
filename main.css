@@ -1,0 +1,15 @@
+body {
+  background-image: url("assets/back.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.home-image-card {
+  height: 150px !important;
+  width: 100px !important;
+}
+
+.cards-container .col:last-child {
+  margin-right: 0;
+}
